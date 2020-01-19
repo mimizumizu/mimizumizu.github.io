@@ -1,3 +1,5 @@
+![画像の説明](fde20fd0-private.png)
+
 # About
 pythonを勉強中です。
 ネットで独学奮闘中
@@ -6,4 +8,4 @@ pythonを勉強中です。
 - mimizu
 - 秘密
 - python勉強中
-![画像の説明](fde20fd0-private.png)
+
