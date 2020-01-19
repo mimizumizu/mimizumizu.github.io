@@ -6,3 +6,4 @@ pythonを勉強中です。
 - mimizu
 - 秘密
 - python勉強中
+![画像の説明](fde20fd0-private.png)
