@@ -4,5 +4,5 @@ pythonを勉強中です。
 
 ## Profile
 - mimizu
-- 静岡
+- 秘密
 - python勉強中
